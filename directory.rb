@@ -20,4 +20,8 @@ puts "Claudia B"
 puts "Ayo Obembe"
 puts "Benjam Conway"
 
+print "Overall, we have "
+print 19
+puts " great students"
+
 end
